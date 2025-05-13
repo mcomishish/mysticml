@@ -3,6 +3,3 @@ publish = "static"
 
 [functions]
   directory = "netlify/edge-functions"
-
-[edge_functions]
-  included_files = ["netlify/edge-functions/ephemeris.ts"]
